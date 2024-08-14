@@ -81,10 +81,6 @@ This project demonstrates how to automate the process of loading data from an Am
 - Verify that the S3 bucket and Azure SQL schema are compatible.
 - Use Jupyter Notebook for local testing of the Lambda function before deployment.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact tummalaramgopal@gmail.com 

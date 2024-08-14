@@ -2,7 +2,7 @@
 
 ## Overview
 
-(https://github.com/user-attachments/assets/298bed14-f4de-4ee4-83ee-d2092f2965ad) 
+![architecture of the project](archi.jpeg) 
 
 
 
